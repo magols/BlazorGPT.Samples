@@ -1,0 +1,4 @@
+Summarize this text to {{$noOfPoints}} bullet points
+[INPUT]
+{{$input}}
+[END INPUT]

@@ -1,0 +1,31 @@
+{
+    "version": "1.0",
+    "pluginName": "Plugins",
+    "functionName": "Thermometer",
+    "description": "Gives the current thermometer reading",
+    "filePath": "Plugins\\Thermometer\\skprompt.txt",
+    "results": [
+        {
+            "completionConfig": {
+                "serviceId": "gpt-4o-2024-08-06",
+                "aiService": "OpenAI",
+                "deploymentName": null,
+                "endpoint": null,
+                "useCustomEndpoint": false,
+                "endpointType": "chat-completion",
+                "modelId": "gpt-4o-2024-08-06",
+                "chatSystemMessage": "You are an AI assistant that helps people find information."
+            },
+            "variables": [],
+            "executionSettings": {},
+            "output": {
+                "prompt": "Return a random fictional temperature in celsius:\r\n",
+                "durationInMilliseconds": 1381.087,
+                "inputTokens": null,
+                "outputTokens": null,
+                "result": "Sure! The fictional temperature is: 19°C.",
+                "chatCompletionResult": "Sure! The fictional temperature is: 19°C."
+            }
+        }
+    ]
+}
