@@ -19,7 +19,7 @@
           {
             "name": "noOfPoints",
             "description": "The number of bullet points",
-            "defaultValue":  5
+            "defaultValue":  "5"
           }
         ]
     },
