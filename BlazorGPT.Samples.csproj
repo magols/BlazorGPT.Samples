@@ -17,7 +17,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.8" />
-    <PackageReference Include="Microsoft.SemanticKernel" Version="1.19.0" />
+    <PackageReference Include="Microsoft.SemanticKernel" Version="1.21.1" />
 
   </ItemGroup>
 
